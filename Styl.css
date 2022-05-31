@@ -1,0 +1,115 @@
+body {
+   text-align: center;
+   font-family: 'Helvetica';
+}
+
+header {
+   clear: both;
+   font-style: italic; 
+   font-size: 35px;
+   color: #FFFFFF;
+   margin: 0 auto;
+   background-color: #549DA0;
+   padding: 40px 0px;
+}
+
+h1 {
+   margin: 0 auto;
+}
+h2 {
+   font-size: 20px;
+}
+nav {
+   clear: both;
+   font-size: 20px;
+   text-align: center;
+   align-item: center;
+   padding: 1px 0;
+   background: #6d92ac;
+   color: #926d53;
+}
+nav ul {
+align-item: center;
+   list-style: none;
+}
+nav li {
+   display: inline-block;
+}
+
+nav li a {
+   text-decoration: none;
+   padding: 10px;
+   color: #926d53;
+}
+
+nav li a:hover {
+   color:#FFFFFF;
+}
+
+.PersonData, .CenterCol, .Sponsors{
+   float: left;
+   text-align: center;
+} 
+
+.PersonData {
+   width: 20%;
+   background-color: #ffb582;
+   color: #004a7d;
+}
+
+.Sponsors {
+   width: 20%;
+   background-color: #c0ddc6;
+   color: #26003e;
+}
+
+.CenterCol {
+   width: 60%;
+   background-color: #FFFFFF;
+   color: #000000;
+}
+
+.contain {
+      display: flex;
+      justify-content: center;
+      clear: both;
+}
+
+.container {
+      justify-content: center;
+      align-item: center;
+}
+
+
+
+footer {
+   clear: both;
+   font-size: 20px;
+   text-align: center;
+   align-item: center;
+   padding: 35px 0;
+   background: #6d92ac;
+   color: #926d53;
+}
+footer ul {
+align-item: center;
+   list-style: none;
+}
+footer li {
+   display: inline-block;
+}
+
+footer li a {
+   text-decoration: none;
+   padding: 8px;
+   color: #926d53;
+}
+
+footer li a:hover {
+   color:#FFFFFF;
+}
+
+footer p {
+   font-style: italic;
+}
+
