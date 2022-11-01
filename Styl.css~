@@ -46,12 +46,12 @@ nav li a:hover {
    color:#FFFFFF;
 }
 	
-.PersonData, .CenterCol, .Sponsors{
+.Archivio, .CenterCol, .Sponsors{
    float: left;
    text-align: center;
 } 
 
-.PersonData {
+.Archivio {
    width: 20%;
    background-color: #ffb582;
    color: #004a7d;
