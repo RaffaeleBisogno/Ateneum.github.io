@@ -26,7 +26,7 @@ nav {
    align-item: center;
    padding: 1px 0;
    background: #6d92ac;
-   color: #926d53;
+   color: #FF7F24;
 }
 nav ul {
 align-item: center;
@@ -39,11 +39,11 @@ nav li {
 nav li a {
    text-decoration: none;
    padding: 10px;
-   color: #926d53;
+   color: #FF7F24;
 }
 
 nav li a:hover {
-   color:#FF7F24;
+   color:#FFFFFF;
 }
 	
 .Archivio, .CenterCol, .Sponsors{
@@ -94,7 +94,7 @@ footer {
    align-item: center;
    padding: 35px 0;
    background: #6d92ac;
-   color: #926d53;
+   color: #FF7F24;
 }
 footer ul {
 align-item: center;
@@ -107,7 +107,7 @@ footer li {
 footer li a {
    text-decoration: none;
    padding: 8px;
-   color: #926d53;
+   color: #FF7F24;
 }
 
 footer li a:hover {
@@ -116,5 +116,7 @@ footer li a:hover {
 
 footer p {
    font-style: italic;
+   text-align: center;
+   align-item: center;
 }
 
