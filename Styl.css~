@@ -43,7 +43,7 @@ nav li a {
 }
 
 nav li a:hover {
-   color:#FFFFFF;
+   color:#FF7F24;
 }
 	
 .Archivio, .CenterCol, .Sponsors{
