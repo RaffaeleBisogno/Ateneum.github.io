@@ -39,7 +39,6 @@ nav li {
 nav li a {
    text-decoration: none;
    padding: 10px;
-   color: #FF7F24;
 }
 
 nav li a:hover {
@@ -107,7 +106,6 @@ footer li {
 footer li a {
    text-decoration: none;
    padding: 8px;
-   color: #FF7F24;
 }
 
 footer li a:hover {
@@ -117,6 +115,5 @@ footer li a:hover {
 footer p {
    font-style: italic;
    text-align: center;
-   align-item: center;
 }
 

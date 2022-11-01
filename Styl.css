@@ -23,15 +23,14 @@ nav {
    clear: both;
    font-size: 20px;
    text-align: center;
-   align-item: center;
    padding: 1px 0;
    background: #6d92ac;
    color: #FF7F24;
 }
 nav ul {
-align-item: center;
    list-style: none;
 }
+
 nav li {
    display: inline-block;
 }
@@ -90,15 +89,14 @@ footer {
    clear: both;
    font-size: 20px;
    text-align: center;
-   align-item: center;
    padding: 35px 0;
    background: #6d92ac;
    color: #FF7F24;
 }
 footer ul {
-align-item: center;
    list-style: none;
 }
+
 footer li {
    display: inline-block;
 }
